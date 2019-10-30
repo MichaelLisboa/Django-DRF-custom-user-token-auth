@@ -1,0 +1,7 @@
+Django
+django-allauth
+django-cors-headers
+django-rest-auth
+django-rest-framework
+djangorestframework-jwt
+requests==2.22.0
