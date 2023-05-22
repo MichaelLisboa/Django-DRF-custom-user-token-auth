@@ -4,4 +4,4 @@ django-cors-headers
 django-rest-auth
 django-rest-framework
 djangorestframework-jwt
-requests==2.22.0
+requests==2.31.0
